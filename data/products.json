@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "pan con queso",
+    "description": "pancon jamon y queso",
+    "price": 12.99,
+    "thumbnail": "pan.jpg",
+    "code": "P001",
+    "stock": 50
+  }
+]
